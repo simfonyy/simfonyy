@@ -1,15 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="200" viewBox="0 0 960 200" role="img" aria-labelledby="title">
   <title id="title">nightlezz</title>
-  <desc id="desc">Веб-дизайн и JavaScript. Дизайню. Пишу код.</desc>
-  <rect width="960" height="280" rx="18" fill="#fafaf7"/>
+  <rect width="960" height="200" rx="12" fill="#fafaf7"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="40" y="47" font-size="13" letter-spacing="2" fill="#73746d">ВЕБ-ДИЗАЙН / JAVASCRIPT</text>
-    <text x="34" y="166" font-size="110" font-weight="700" letter-spacing="-7" fill="#22231f">nightlezz<tspan fill="#343fff">.</tspan></text>
-    <text x="40" y="226" font-size="23" fill="#22231f">дизайню. пишу код.</text>
-    <text x="920" y="226" text-anchor="end" font-size="17" fill="#73746d">nightlezz.ru ↗</text>
+    <text x="34" y="133" font-size="100" font-weight="700" letter-spacing="-6" fill="#22231f">nightlezz</text>
   </g>
-  <path d="M40 239Q141 231 248 236" fill="none" stroke="#343fff" stroke-width="3" stroke-linecap="round"/>
-  <g transform="translate(771 61) scale(1.35)" fill="#343fff">
+  <g transform="translate(786 42) scale(1.2)" fill="#343fff">
     <path d="M61 12C36 9 13 29 13 54c0 25 23 42 47 33 14-5 23-17 25-31-15 12-35 8-42-6-8-15 1-30 18-38Z"/>
     <path d="m76 6 5 15 15 5-15 5-5 15-5-15-15-5 15-5Z"/>
   </g>

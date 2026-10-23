@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+  <title id="title">nightlezz</title>
+  <desc id="desc">Веб-дизайн и JavaScript. Дизайню. Пишу код.</desc>
+  <rect width="960" height="280" rx="18" fill="#191b20"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="40" y="47" font-size="13" letter-spacing="2" fill="#a5a6a2">ВЕБ-ДИЗАЙН / JAVASCRIPT</text>
+    <text x="34" y="166" font-size="110" font-weight="700" letter-spacing="-7" fill="#fafaf7">nightlezz<tspan fill="#b9c0ff">.</tspan></text>
+    <text x="40" y="226" font-size="23" fill="#fafaf7">дизайню. пишу код.</text>
+    <text x="920" y="226" text-anchor="end" font-size="17" fill="#a5a6a2">nightlezz.ru ↗</text>
+  </g>
+  <path d="M40 239Q141 231 248 236" fill="none" stroke="#b9c0ff" stroke-width="3" stroke-linecap="round"/>
+  <g transform="translate(771 61) scale(1.35)" fill="#b9c0ff">
+    <path d="M61 12C36 9 13 29 13 54c0 25 23 42 47 33 14-5 23-17 25-31-15 12-35 8-42-6-8-15 1-30 18-38Z"/>
+    <path d="m76 6 5 15 15 5-15 5-5 15-5-15-15-5 15-5Z"/>
+  </g>
+</svg>

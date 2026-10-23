@@ -10,7 +10,7 @@
   <a href="https://t.me/nightlezz">telegram</a>
 </p>
 
-<p><img src="https://komarev.com/ghpvc/?username=simfonyy&amp;label=Просмотры+профиля&amp;color=555555&amp;style=flat-square" alt="Просмотры профиля" title="Счётчик просмотров с 24 октября 2026 года; повторные просмотры тоже учитываются."></p>
+<p><img src="https://komarev.com/ghpvc/?username=simfonyy&amp;label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8F&amp;color=555555&amp;style=flat-square" alt="Просмотры профиля" title="Счётчик просмотров с 24 октября 2026 года; повторные просмотры тоже учитываются."></p>
 
 Делаю **[Aureon](https://github.com/simfonyy/aureon)** — неофициальный клиент Яндекс Музыки для Windows и Linux.
 

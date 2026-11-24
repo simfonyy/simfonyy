@@ -1,14 +1,3 @@
-<a href="https://nightlezz.ru">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <img src="assets/header-light.svg" alt="nightlezz" width="960">
-  </picture>
-</a>
-
-<p>
-  <a href="https://nightlezz.ru">nightlezz.ru</a> ·
-  <a href="https://t.me/nightlezz">telegram</a>
-</p>
 
 <p><img src="https://komarev.com/ghpvc/?username=simfonyy&amp;label=views&amp;color=555555&amp;style=flat-square" alt="Просмотры профиля" title="Счётчик просмотров с 24 октября 2026 года; повторные просмотры тоже учитываются."></p>
 
